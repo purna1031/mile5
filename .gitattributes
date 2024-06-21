@@ -1,0 +1,6 @@
+# Using a text editor, create a .gitattributes file with the following content:
+
+* text=auto
+*.js text
+*.json text
+
